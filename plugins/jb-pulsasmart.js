@@ -4,10 +4,10 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Smartfren 
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa byu1
+📞 Nomor: 085172446692
+👤 A/n: levi
+📦 Mitra: venz-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
