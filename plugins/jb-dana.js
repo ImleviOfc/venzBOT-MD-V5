@@ -5,9 +5,9 @@ HayðŸ‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Dana
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 085172446692
+👤 A/n: levi
+📦 Mitra: venz-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
