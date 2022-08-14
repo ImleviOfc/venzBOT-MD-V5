@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} DONASI ${htka}*
 
-2022 FangzBot Official 
+2022 venz-BOT Official 
 `
 const sections = [
    {
@@ -12,8 +12,8 @@ const sections = [
 	    {title: "?Gopay", rowId: '.donasigopay', description: 'Bayar melalui Gopay' },
 	{title: "?Ovo", rowId: '.donasiovo', description: 'Bayar melalui Ovo' },
 	{title: "?Motion Pay", rowId: '.donasimotionpay', description: 'Bayar melalui Motion Pay' },
-	{title: "?Pulsa Smartfren", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
-	{title: "?Pulsa Tri3", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa byu1", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa byu2", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
 	]
     }, 
 
