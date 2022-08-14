@@ -43,11 +43,11 @@ global.sdc = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '+6285172446692' //Dana
-global.povo = 'belum ada' //Ovo
-global.pgopay = 'belum ada' //Gopay
-global.ppulsa = '+6285172446692' //Pulsa 
-global.ppulsa2 = '+6285172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '085172446692' //Dana
+global.povo = '085172446692' //Ovo
+global.pgopay = '085172446692' //Gopay
+global.ppulsa = '085172446692' //Pulsa 
+global.ppulsa2 = '082131369002' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
