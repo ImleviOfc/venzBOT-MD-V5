@@ -30,7 +30,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *🧮 Kelas* : 7
 *🧩 Hobby* : Nonton henta*, main game, Recode script
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
+*🗺️ Tinggal* : Indonesia, kaltim, berau
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
 *💔 Benci* : anak alay, autis, anak epep, sok asik
 
