@@ -12,8 +12,8 @@ const sections = [
 	    {title: "?Gopay", rowId: '.donasigopay', description: 'Bayar melalui Gopay' },
 	{title: "?Ovo", rowId: '.donasiovo', description: 'Bayar melalui Ovo' },
 	{title: "?Motion Pay", rowId: '.donasimotionpay', description: 'Bayar melalui Motion Pay' },
-	{title: "?Pulsa byu1", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
-	{title: "?Pulsa byu2", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa TELKOMSEL", rowId: '.donasismartfren', description: 'Bayar melalui pulsa' },
+	{title: "?Pulsa byu", rowId: '.donasiastri', description: 'Bayar melalui pulsa' },
 	]
     }, 
 
