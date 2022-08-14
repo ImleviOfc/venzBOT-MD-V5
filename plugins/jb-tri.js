@@ -4,10 +4,10 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Tri3
-📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa TELKOMSEL
+📞 Nomor: 082131369002
+👤 A/n: levi
+📦 Mitra: venz-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
