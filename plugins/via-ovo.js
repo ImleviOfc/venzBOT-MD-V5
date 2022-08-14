@@ -5,9 +5,9 @@ Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
 💳 Via: Ovo
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📝 Mitra: Fangz BOT
+📞 Nomor: 085172446692
+👤 A/n: levi
+📝 Mitra: venz-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
